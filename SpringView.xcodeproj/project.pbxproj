@@ -53,6 +53,7 @@
 		728878351E964533008E75C1 /* WeiBo.png in Resources */ = {isa = PBXBuildFile; fileRef = 728878301E964533008E75C1 /* WeiBo.png */; };
 		728878361E964533008E75C1 /* WeiChat.png in Resources */ = {isa = PBXBuildFile; fileRef = 728878311E964533008E75C1 /* WeiChat.png */; };
 		728878371E964533008E75C1 /* QQ.png in Resources */ = {isa = PBXBuildFile; fileRef = 728878321E964533008E75C1 /* QQ.png */; };
+		728878391E964CFF008E75C1 /* Untitled3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 728878381E964CFF008E75C1 /* Untitled3.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -155,6 +156,7 @@
 		728878301E964533008E75C1 /* WeiBo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WeiBo.png; path = SDWebImage/WeiBo.png; sourceTree = "<group>"; };
 		728878311E964533008E75C1 /* WeiChat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WeiChat.png; path = SDWebImage/WeiChat.png; sourceTree = "<group>"; };
 		728878321E964533008E75C1 /* QQ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = QQ.png; path = SDWebImage/QQ.png; sourceTree = "<group>"; };
+		728878381E964CFF008E75C1 /* Untitled3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Untitled3.gif; path = Masonry/Untitled3.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +200,7 @@
 			children = (
 				728877CF1E963EBB008E75C1 /* SDWebImage */,
 				7288780A1E963ECF008E75C1 /* Masonry */,
+				728878381E964CFF008E75C1 /* Untitled3.gif */,
 				7288782E1E964533008E75C1 /* WeiChatline.png */,
 				7288782F1E964533008E75C1 /* QQZone.png */,
 				728878301E964533008E75C1 /* WeiBo.png */,
@@ -406,6 +409,7 @@
 				728877C61E963E5F008E75C1 /* D_Cn_Order_Delete.png in Resources */,
 				728878351E964533008E75C1 /* WeiBo.png in Resources */,
 				728878361E964533008E75C1 /* WeiChat.png in Resources */,
+				728878391E964CFF008E75C1 /* Untitled3.gif in Resources */,
 				728877C81E963E63008E75C1 /* D_Cn_Order_Add.png in Resources */,
 				728878371E964533008E75C1 /* QQ.png in Resources */,
 				728877AD1E963E33008E75C1 /* Assets.xcassets in Resources */,
